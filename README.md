@@ -1,0 +1,4 @@
+allplayers
+==========
+
+AllPlayers Ruby Library
